@@ -1,0 +1,39 @@
+body{
+    background-color: #2A5D5A;
+}
+.brown{
+    width: 521px;
+    height: 79px;
+    background-color: #311313;
+    color: white;
+    font-size: 64px;
+    padding-top: px ;
+    margin: 22px 440px 78px 409px;
+    padding-left: 28px;
+
+
+}
+.black{
+    background-color: black;
+    width: 900px;
+    height: 538px;
+margin-top: 78px;
+margin-left: 220px;
+gap: 0px;
+border: 10px solid red;
+opacity: 0px;
+
+}
+.green-one{
+    background-color: #1FE8B7;
+    width: 817px;
+height: 151px;
+
+gap: 0px;
+opacity: 0px;
+font-size: 24px;
+padding: 35px 9px 10px;
+margin-right: 55px ;
+margin-top: 52px;
+margin-left: 35px;
+}
